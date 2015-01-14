@@ -1,2 +1,2 @@
 # ACM
-Play and enjoy!
+Play and enjoy it!
